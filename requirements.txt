@@ -1,0 +1,13 @@
+bitfinex
+ccxt
+pandas
+numpy
+requests
+aiohttp
+websockets
+python-telegram-bot
+schedule
+ta
+termcolor
+tqdm
+python-dotenv
